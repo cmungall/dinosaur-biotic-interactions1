@@ -1,4 +1,5 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Katja Schulz. 2015. Information about dinosaur diets manually extracted from literature."
+  "citation": "Katja Schulz. 2015. Information about dinosaur diets manually extracted from literature.",
+  "deprecated": true
 }
